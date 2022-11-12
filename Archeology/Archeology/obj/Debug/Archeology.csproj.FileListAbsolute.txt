@@ -1,0 +1,11 @@
+D:\桌面\NZ\2022\B Trimester\COMPX102\Assignment 2\Archeology\Archeology\bin\Debug\Archeology.exe.config
+D:\桌面\NZ\2022\B Trimester\COMPX102\Assignment 2\Archeology\Archeology\bin\Debug\Archeology.exe
+D:\桌面\NZ\2022\B Trimester\COMPX102\Assignment 2\Archeology\Archeology\bin\Debug\Archeology.pdb
+D:\桌面\NZ\2022\B Trimester\COMPX102\Assignment 2\Archeology\Archeology\obj\Debug\Archeology.csproj.AssemblyReference.cache
+D:\桌面\NZ\2022\B Trimester\COMPX102\Assignment 2\Archeology\Archeology\obj\Debug\Archeology.csproj.SuggestedBindingRedirects.cache
+D:\桌面\NZ\2022\B Trimester\COMPX102\Assignment 2\Archeology\Archeology\obj\Debug\Archeology.Form1.resources
+D:\桌面\NZ\2022\B Trimester\COMPX102\Assignment 2\Archeology\Archeology\obj\Debug\Archeology.Properties.Resources.resources
+D:\桌面\NZ\2022\B Trimester\COMPX102\Assignment 2\Archeology\Archeology\obj\Debug\Archeology.csproj.GenerateResource.cache
+D:\桌面\NZ\2022\B Trimester\COMPX102\Assignment 2\Archeology\Archeology\obj\Debug\Archeology.csproj.CoreCompileInputs.cache
+D:\桌面\NZ\2022\B Trimester\COMPX102\Assignment 2\Archeology\Archeology\obj\Debug\Archeology.exe
+D:\桌面\NZ\2022\B Trimester\COMPX102\Assignment 2\Archeology\Archeology\obj\Debug\Archeology.pdb
